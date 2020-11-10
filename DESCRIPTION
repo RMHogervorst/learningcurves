@@ -1,0 +1,15 @@
+Package: learningcurves
+Type: Package
+Title: Create and Plot Learning Curves for Machine Learning
+Version: 0.0.0.9000
+Authors@R: person("Roel M.", "Hogervorst", email = "hogervorst.rm@gmail.com", role = c("aut", "cre"),, 
+            comment = c(ORCID = "0000-0001-7509-0328"))
+Description: Creates rsample datasplits where you can apply your model 
+    so that you can do good machine learning. Check learning curves.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
